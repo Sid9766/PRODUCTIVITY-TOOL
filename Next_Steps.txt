@@ -1,0 +1,9 @@
+Next Steps To Take
+
+A dropdown menu to choose capsules, for example the older capsules, to understand what might have been done earlier.
+Store chat history for each session.
+Visualization of capusle insights.
+Maybe try to add to some authentication and password protected access to the UI
+Maybe a sidebar to adjust various parameters like: Temperature, Max Tokens, Compression Budget,etc.
+
+Now this needs further thinking, but maybe also try to integrate Autogen here to allow the agent to auto-suggest questions from the capsule.
